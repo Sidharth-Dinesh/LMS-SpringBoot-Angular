@@ -1,7 +1,13 @@
 # examPortalSpringBoot
 exam portal  using  springboot angular java
 
-<a href="https://www.agarwalvaibhav.com">Vaibhav Agarwal</a>
+Easy Login & Registration with JWT Authentication. 
+A software that provides professors a user-friendly platform to host quizzes for all of their courses while ensuring that these quizzes are answered by students in an ethical manner. 
+Admin can delete and modify quiz and questions and also see the result of whoever has attempted the quiz.  
+Implemented Auto Submission of Exam on Tab Switch. 
+Employs the use of single webpages for faster load times. 
+Provides capability to create questions of multiple media types to facilitate more inclusive learning
+Developed using Angular for frontend and SpringBoot for backend and MySql for Database. 
 
 
 EXAM DOJO
